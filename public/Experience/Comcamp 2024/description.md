@@ -1,0 +1,1 @@
+I had the opportunity to serve as a Teacher Assistant in the Web Development class at Comcamp 2024. The main topic was website design using React, with subtopics including JavaScript, Tailwind CSS, and HTML.

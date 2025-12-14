@@ -1,0 +1,1 @@
+I had an opportunity to volunteer for 5 hours at First Baptist Church, Henderson, helping distribute food to people in need.

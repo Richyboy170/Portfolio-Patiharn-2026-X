@@ -1,0 +1,1 @@
+Served as a camp committee member for the "Pramuan Mitr Christian Once Again 2022" high school club camp.

@@ -1,0 +1,5 @@
+Activity Planner | LLM Family Activity Search (2025)
+Report: https://drive.google.com/drive/u/0/folders/1qkati1fvbrs4zUc6RfP2fqw-6InFw1Uk
+Integrated Sentence-BERT embeddings for semantic understanding, then Calculates connections between search queries, group members, and activities. Combines BM25 keyword search with dense semantic search. Considers ages, preferences, and group size
+Trained a new Neural Network Classifier in Python by: retrieving dataset on the internet from 423 websites, feature selection to ensure that our model is trained with important data including: Title, age_min, age_max, duration, and how_to_play, then, as the dataset has different amount of data regarding age differentiation we use SMOTE to create fair amount of data in each age, then we train and do hyperparameter tuning. The result of our model on 70 new samples is 72.86% accuracy vs baseline 58.57% (+14.29pp).
+note: in the future the dataset could be expand and we can get better accuracy models.

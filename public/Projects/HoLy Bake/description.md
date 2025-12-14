@@ -1,0 +1,2 @@
+Holybake | Website for Store Showcase (2025)
+Holybake.vercel.app is a website I designed and developed for HoLy Bake, a homemade baking business. It showcases the brand's story and highlights its products through an engaging and visually appealing interface.

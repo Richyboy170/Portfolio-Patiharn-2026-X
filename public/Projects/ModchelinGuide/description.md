@@ -1,0 +1,8 @@
+ModchelinGuide | Ranking and Suggestion System for Restaurants in a Selected Area (2025)
+Our model: https://huggingface.co/wttw/modchelin_thainer-base-model 
+Report: https://drive.google.com/file/d/1ERQLBEdTEedgWhTgonwhfvciRrVBrICc/view?usp=sharing
+7 People group work creating a website that ranks restaurant in a selected area to guide restaurant owners which kind of restaurants are in demand in the selected area. I am responsible for Named Entity Recognition (NER) model
+Preprocessing: Started by data collecting with Google Maps APIs and Web Scraping (Playwright). Data Augmentation by translating Thai to English, English to well arranged English, then well arranged English to Thai. Data Cleaning.
+Exploratory Data Analysis (EDA): Topic Modeling with BERTopic and fine-tuning a Named Entity Recognition (NER) Model by creating BIO-tag to create a letter to represents each word: if a word of a category has its cosine similarity higher than the threshold 0.5 (50%), it will be tagged with its category's letter representation. If below it will be tagged "O". 
+We selected WangchanBERTa model to fine-tune with our dataset (BIO-Tagged). Then used the fine-tuned model to find important aspects to do Aspect-Based Sentiment Analysis (ABSA) on reviews
+We got Aggregated Metrics (per restaurant, per aspect), then we did Feature Selection and trained our model. We get  token-level accuracy reaching approximately 89.9%

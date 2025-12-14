@@ -1,0 +1,1 @@
+Volunteered in the Historical Archives Department during Bangkok Christian College’s 170th Anniversary Celebration (BCC170).

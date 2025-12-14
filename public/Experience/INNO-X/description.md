@@ -1,0 +1,3 @@
+I had the opportunity to serve as a translator, assisting a professor in translating Thai to English during the Innovation Exchange at KMUTT for students from the Royal Academic Institute, Myanmar, on November 30, 2023.
+
+I had the opportunity to be a Teacher Assistant during the Innovation Exchange at KMUTT on November 28, 2024, supporting around 50 students from the Control and Instrumentation Engineering Department and the AUT471 KOSEN Engineering Project 7 course. I assisted in training students on how to use 3D printers and laser cutting tools.

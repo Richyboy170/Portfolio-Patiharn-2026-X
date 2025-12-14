@@ -1,0 +1,1 @@
+I submitted my work to the Gunpla Builders World Cup in Thailand in 2018, 2019, and 2024.

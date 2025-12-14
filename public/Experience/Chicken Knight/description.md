@@ -1,0 +1,3 @@
+I had the opportunity to establish a fried chicken business, with the help of my family, called “Chicken Knight” with the goal of supporting my family’s income. I was involved in every aspect of the process—from concept development, branding, and menu creation to customer service and daily operations. This experience not only helped strengthen our financial stability but also taught me valuable skills in entrepreneurship, time management, and customer engagement.
+
+I also created and managed official accounts for Lineman and GrabFood, allowing Chicken Knight to reach a wider audience through popular food delivery platforms. This helped boost visibility, increase sales, and streamline the ordering process for customers.

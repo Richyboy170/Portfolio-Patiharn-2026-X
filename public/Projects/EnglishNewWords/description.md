@@ -1,0 +1,1 @@
+This is one of my most impactful personal projects; EnglishNewWords.vercel.app, a website that helps individuals learn new vocabulary daily through interactive mini-games. Built primarily with TypeScript on Next.js, the platform has been running since July 8, 2024. 
